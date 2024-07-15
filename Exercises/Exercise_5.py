@@ -1,4 +1,4 @@
-## Convert km to miles
+### Convert km to miles
 
 km = int(input("Enter Kelometer value"))
 
@@ -6,7 +6,8 @@ mile = km * 0.621371
 print("Your Miles are ",mile)
 
 
-## Find area of Circle
+### Find area of Circle
+
 import math
 
 r = float(input('Enter Radious of circle'))

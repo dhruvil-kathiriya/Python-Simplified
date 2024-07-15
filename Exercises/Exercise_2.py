@@ -1,4 +1,4 @@
-#Ask User to input 3 numbers and you have to print Average  of three numbers using string Formatting
+### Ask User to input 3 numbers and you have to print Average  of three numbers using string Formatting
 
 num1,num2,num3 =input("Add 3 numbers Seperated by Comma").split(",")
 

@@ -1,4 +1,4 @@
-## Quadric Equation
+### Quadratic Equation
 
 import math
 
